@@ -8,8 +8,8 @@
 #include <AsyncTCP.h>
 
 // Replace with your network credentials
-const char* ssid = "Saadat";
-const char* password = "03118549774";
+const char* ssid = "Your Network Name";
+const char* password = "Your Network Password";
 
 // Define the NTP Client to get time
 WiFiUDP ntpUDP;
