@@ -1,8 +1,6 @@
-###############################################
 #                                             #
 #        ESP32CAM Time Display README         #
 #                                             #
-###############################################
 
 This code allows you to display current time, turn on lights using a local host, and it is not accessible remotely. 
 
